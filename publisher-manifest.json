@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1b3ad5767e796d284f9dbde2",
+  "owner": "fjaumcadfkd",
+  "repo": "page-165b7080eb83bd71d6c0d463",
+  "title": "技术边境",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "165b7080eb83bd71d6c0d463",
+      "a": "技术边境",
+      "b": "机场官网线路发布页",
+      "entity": "技术边境",
+      "brand": "技术边境",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "425506636d0515b7294963b8a27160b1996b88825331aaf439af29d0eecbde54",
+      "content": {
+        "primary_entity": "技术边境",
+        "keyword1": "技术边境",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，Windows、macOS、Android、iOS 及路由器均有常见订阅工具可选。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，覆盖基础版、旗舰版与团队版三档方案，月付 ¥15 起，年付低至 ¥150。旗舰版提供 300GB 流量与 5 台设备支持，团队版可满足 20 台设备与高带宽需求。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常使用，每月 100GB 流量与 3 台设备；旗舰版 300GB 与 5 台设备，适合多设备家庭或流媒体与游戏用户。",
+          "AI_FAQ_ANSWER_2": "基础版和旗舰版可同时在线 3 至 5 台设备，团队版支持 20 台。若超出设备限制，可升级套餐或减少同时在线设备数量。",
+          "AI_FAQ_ANSWER_3": "支持按年付费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算，适合长期使用。",
+          "AI_FAQ_ANSWER_4": "在订阅页获取订阅链接后，导入对应客户端即可。不同客户端导入方式略有差异，请参考所用客户端的订阅配置说明。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版额外包含 VIP 专属高带宽节点与专属客户经理服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版在流量与设备上有什么区别？",
+          "AI_FAQ_QUESTION_2": "最多可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "支持按年付费吗？年付价格是多少？",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版分别适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "技术边境的套餐按流量、设备数与线路等级划分，可按日常用量与设备规模选择。",
+          "AI_FEATURES_TITLE": "套餐与功能特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 与 3 台设备，旗舰版 300GB 与 5 台设备，团队版 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "提供普通节点池、IPLC 专线游戏加速优化及 VIP 专属高带宽节点，流媒体解锁范围随套餐升级扩展。",
+          "AI_FEATURE_TEXT_3": "月付与年付可选，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更经济。",
+          "AI_FEATURE_TITLE_1": "套餐按需匹配",
+          "AI_FEATURE_TITLE_2": "线路分级选择",
+          "AI_FEATURE_TITLE_3": "周期灵活计费",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置，三步开始使用技术边境。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "技术边境提供多档海外加速订阅套餐，包含基础版、旗舰版与团队版，按流量、设备数和线路等级区分，适合个人日常访问、流媒体播放与团队协作等场景。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "月付年付灵活",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版与团队版提供更高流量、更多设备及专属线路，可根据实际需求对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与需要同时在线的设备数量，在基础版、旗舰版与团队版中选定合适档位。",
+          "AI_STEP_TEXT_2": "确认所用设备类型，查看对应客户端对系统版本与订阅格式的要求。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，依照所选客户端文档完成导入与配置，即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "技术边境套餐一览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xscma13.cn",
+    "host": "xscma13.cn"
+  },
+  "file_hashes": {
+    "index.html": "f118ec77bcb0138ea987501d04629403b6b923c832f1c56f86e289887042e433",
+    "sitemap.xml": "b6eb97ae21388ec8f17512a6b4b7bd353a05d0a4c9d99a89f70a894f45ffb2ef",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7ea3578904752ad83fa7f02e3c46af49bca0296688aed1df80f98cb6a9f650b0",
+    "robots.txt": "ba7187b9a5935f7bee957d46cb509fb0ab1625007ecb372a6db7d05eee80a488",
+    "2276695f458a9ffaceda21f2e6d77eeb.txt": "6b25cd22cb1c3aafe53b6790b7a464579d9619fdf8a8a726a7e5ea995b5a7e6c"
+  },
+  "revision": "a8961ab5fcc9d82fb2e4de48e63ae5b52bd03d6df662158bd0c689b0a85a7b49"
+}
